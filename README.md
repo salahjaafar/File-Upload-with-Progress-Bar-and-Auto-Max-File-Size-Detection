@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please open an issue or reach out to [your.salah@rn.tn](mailto:salah@rn.tn).
+For any questions or issues, please open an issue or reach out to [salah@rn.tn](mailto:salah@rn.tn).
 
 ---
 
